@@ -1,0 +1,17 @@
+A,B,C,D,E,F,G,H,I,L
+2 A B
+7 B C
+3 A D
+1 B F
+16 D E
+11 E F
+6 F C
+17 D H
+8 H E
+4 E I
+18 H I
+10 I F
+5 F G
+12 I G
+9 I L
+14 H L

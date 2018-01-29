@@ -1,0 +1,23 @@
+A,B,C,D,E,F,G,H,I,L,M,N,O
+5 A B
+8 A C
+12 A I
+23 A O
+6 B M
+14 B E
+9 B D
+25 C M
+3 C D
+11 D I
+8 D L
+5 E L
+7 E F
+6 E G
+10 F H
+9 F I
+13 G O
+17 G N
+19 H I
+21 M I
+15 L N
+14 M N

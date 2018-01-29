@@ -1,0 +1,161 @@
+A B 2
+A C 3
+D F 3
+C E 4
+C D 7
+free edges
+B C 4
+B D 8
+E D 8
+
+iterazione n = 1 costo = 250
+
+A B 2
+A C 3
+D F 3
+C E 4
+C D 7
+
+iterazione n = 2 costo = 266
+
+D F 3
+A B 2
+B C 4
+C D 7
+C E 4
+
+iterazione n = 3 costo = 252
+
+D F 3
+A C 3
+B C 4
+C D 7
+C E 4
+
+iterazione n = 4 costo = 306
+
+D F 3
+A C 3
+B D 8
+C D 7
+C E 4
+
+iterazione n = 5 costo = 330
+
+D F 3
+A B 2
+B D 8
+C D 7
+C E 4
+
+iterazione n = 6 costo = 282
+
+D F 3
+B D 8
+A B 2
+A C 3
+C E 4
+
+iterazione n = 7 costo = 298
+
+D F 3
+C E 4
+E D 8
+A B 2
+A C 3
+
+iterazione n = 8 costo = 304
+
+D F 3
+E D 8
+C D 7
+A B 2
+A C 3
+
+iterazione n = 9 costo = 282
+
+D F 3
+C E 4
+A B 2
+B D 8
+B C 4
+
+iterazione n = 10 costo = 314
+
+D F 3
+C E 4
+A B 2
+B C 4
+E D 8
+
+iterazione n = 11 costo = 320
+
+D F 3
+A B 2
+B C 4
+E D 8
+C D 7
+
+iterazione n = 12 costo = 300
+
+D F 3
+C E 4
+A C 3
+B D 8
+B C 4
+
+iterazione n = 13 costo = 300
+
+D F 3
+C E 4
+A C 3
+B C 4
+E D 8
+
+iterazione n = 14 costo = 306
+
+D F 3
+A C 3
+B C 4
+E D 8
+C D 7
+
+iterazione n = 15 costo = 348
+
+D F 3
+C E 4
+A C 3
+B D 8
+E D 8
+
+iterazione n = 16 costo = 332
+
+D F 3
+A C 3
+B D 8
+E D 8
+C D 7
+
+iterazione n = 17 costo = 346
+
+D F 3
+C E 4
+A B 2
+B D 8
+E D 8
+
+iterazione n = 18 costo = 328
+
+D F 3
+A B 2
+B D 8
+E D 8
+C D 7
+
+iterazione n = 19 costo = 316
+
+D F 3
+E D 8
+B D 8
+A B 2
+A C 3

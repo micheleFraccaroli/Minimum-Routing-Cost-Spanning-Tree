@@ -1,0 +1,10 @@
+A,B,C,D,E,F
+2 A B
+3 A C
+4 B C
+8 B D
+4 C E
+7 C D
+8 E D
+3 D F
+6 E F
